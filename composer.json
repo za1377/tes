@@ -1,0 +1,21 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "scripts": {
+   
+        "start" : [
+            "php -S localhost:8000"
+        ]
+    },
+    "type": "project",
+    "authors": [
+        {
+            "name": "za1377",
+            "email": "zahraanvari216@gmail.com"
+        }
+    ],
+    "require": {}
+}
